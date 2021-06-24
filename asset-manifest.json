@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/edyoda-movies-react/static/css/main.f6c33d9d.chunk.css",
+    "main.js": "/edyoda-movies-react/static/js/main.9f650a21.chunk.js",
+    "main.js.map": "/edyoda-movies-react/static/js/main.9f650a21.chunk.js.map",
+    "runtime-main.js": "/edyoda-movies-react/static/js/runtime-main.01c5c59c.js",
+    "runtime-main.js.map": "/edyoda-movies-react/static/js/runtime-main.01c5c59c.js.map",
+    "static/js/2.6f67a6de.chunk.js": "/edyoda-movies-react/static/js/2.6f67a6de.chunk.js",
+    "static/js/2.6f67a6de.chunk.js.map": "/edyoda-movies-react/static/js/2.6f67a6de.chunk.js.map",
+    "static/js/3.15598924.chunk.js": "/edyoda-movies-react/static/js/3.15598924.chunk.js",
+    "static/js/3.15598924.chunk.js.map": "/edyoda-movies-react/static/js/3.15598924.chunk.js.map",
+    "index.html": "/edyoda-movies-react/index.html",
+    "static/css/main.f6c33d9d.chunk.css.map": "/edyoda-movies-react/static/css/main.f6c33d9d.chunk.css.map",
+    "static/js/2.6f67a6de.chunk.js.LICENSE.txt": "/edyoda-movies-react/static/js/2.6f67a6de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01c5c59c.js",
+    "static/js/2.6f67a6de.chunk.js",
+    "static/css/main.f6c33d9d.chunk.css",
+    "static/js/main.9f650a21.chunk.js"
+  ]
+}
